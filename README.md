@@ -10,7 +10,8 @@ The objective is to analyze customer and campaign-related information and build 
 ---
 
 ## Dataset
-
+Source: Kaggle Bank Marketing Dataset
+Dataset Link: https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
 The project uses the Bank Marketing Dataset, which contains information collected from direct marketing campaigns conducted by a banking institution.
 
 Target Variable:
